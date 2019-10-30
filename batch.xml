@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="batch.xsl" type="text/xsl" ?>
+<collection>
+    <view > 
+        <viewname>view1</viewname>
+        <clippingpoint>
+            <X>11213</X>
+            <Y>13424</Y>
+            <Z>24235</Z>
+        </clippingpoint>        
+    </view>
+    <view > 
+        <viewname>view2</viewname>
+        <clippingpoint>
+            <X>14323</X>
+            <Y>32423</Y>
+            <Z>23432</Z>
+        </clippingpoint>        
+    </view>
+</collection>
